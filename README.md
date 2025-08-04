@@ -12,7 +12,7 @@ RandomiX is an absurd visual and auditory engine built on chaos. Every click gen
 
 ## How to Use
 
-1.  Open the [live site](https://randomix-machine.windsurf.build).
+1.  Open the [live site](https://randomix-machine.build).
 2.  Click anywhere on the canvas to start generating.
 3.  Use the "Clear Canvas" button to start over.
 4.  Use the "Save as PNG" button to download your artwork.
